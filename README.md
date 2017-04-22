@@ -6,5 +6,7 @@
 
 3、将剩下的文件，全部放入小程序的目录
 
-运行即可，效果如下    
-![小程序demo](http://ob9uz786d.bkt.clouddn.com/2017-04-22-WechatIMG220.png)
+运行即可，效果如下   
+
+
+![xxx](http://ob9uz786d.bkt.clouddn.com/2017-04-22-WechatIMG220.png)
