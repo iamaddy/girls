@@ -6,4 +6,6 @@
 
 3、将剩下的文件，全部放入小程序的目录
 
- 
+
+具体请参考
+http://www.iamaddy.net/2017/04/create-little-programe-by-yourself/
